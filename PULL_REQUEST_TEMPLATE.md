@@ -5,7 +5,7 @@
 - URL: https://eriquezinedine.github.io/Camping-2YMR/src/frontend/app/03-pages/index.html
 
 ## Type:
-  - [] Portafolio
+  - [ ] Portafolio
   - [ ] Blog
   - [x] Website
   - [ ] Otro
